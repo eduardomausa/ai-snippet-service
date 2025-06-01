@@ -63,6 +63,8 @@ This is a full-stack application that summarizes text using Google's Gemini API 
 
 ## Run the frontend using npm:
 
+- In the root directory of the frontend project run:
+
 ```bash
    npm start
 ```
