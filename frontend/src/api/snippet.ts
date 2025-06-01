@@ -7,6 +7,6 @@ export interface SnippetResponse {
 }
 
 export const createSnippet = async (text: string) => {
-  const res = await api.post("/api/snippet", { text });
+  const res = await api.post("/snippets", { text });
   return res.data;
 };
