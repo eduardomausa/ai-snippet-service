@@ -6,7 +6,7 @@ A Node.js + Express REST API that summarizes text using Google's Gemini model an
 
 ## 🌍 Repository
 
-**Public URL:** [https://github.com/eduardomausa/ai-snippet-service/tree/master](https://github.com/eduardomausa/ai-snippet-service/tree/master)
+**Public URL:** [https://github.com/eduardomausa/ai-snippet-service/tree/master/backend](https://github.com/eduardomausa/ai-snippet-service/tree/master/backend)
 
 ---
 

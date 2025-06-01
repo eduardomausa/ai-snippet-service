@@ -4,7 +4,7 @@ A React-based web application that interacts with the Snippet Summarizer API to 
 
 ## 🌍 Repository
 
-Public URL: https://github.com/eduardomausa/ai-snippet-frontend
+Public URL: https://github.com/eduardomausa/ai-snippet-service/tree/master/frontend
 
 ## ⚙️ Requirements
 
