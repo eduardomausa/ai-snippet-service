@@ -17,7 +17,7 @@ This is a full-stack application that summarizes text using Google's Gemini API 
 
 ## ⚙️ Requirements
 
-- **Docker** (for running both frontend and backend together)
+- **Docker** (for running the backend)
 - **Docker Compose** (to simplify the setup)
 - Node.js ≥ 22
 
